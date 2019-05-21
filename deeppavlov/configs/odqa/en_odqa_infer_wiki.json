@@ -50,7 +50,7 @@
           "questions"
         ],
         "out": [
-          "best_answer",
+          "answer",
           "best_answer_score"
         ]
       }
