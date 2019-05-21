@@ -4,7 +4,7 @@
       "question_raw"
     ],
     "out": [
-      "best_answer"
+      "answer"
     ],
     "pipe": [
       {
